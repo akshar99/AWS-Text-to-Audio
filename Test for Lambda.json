@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "text-to-talk-polly-source"
+        },
+        "object": {
+          "key": "New Text Document.txt"
+        }
+      }
+    }
+  ]
+}
